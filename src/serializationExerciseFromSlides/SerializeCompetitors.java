@@ -61,7 +61,7 @@ public class SerializeCompetitors
 	
 	public void deserializeCompetitorsFromFile()
 	{
-		
+		System.out.println("test");
 	}
 	
 	public void serializeCompetitorQueueToFile()
